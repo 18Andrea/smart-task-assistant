@@ -1,4 +1,4 @@
-# Software Journey - Smart Task Assistant
+# Software Journey – Smart Task Assistant
 
 ## Introducción
 
@@ -9,7 +9,11 @@ El proyecto fue desarrollado utilizando un enfoque de co-creación entre desarro
 La documentación se encuentra organizada en tres secciones principales:
 
 1. La Bala Trazadora (Tracer Bullet) y el Enrutamiento de las Skills.
-2. Anatomía de la Complejidad (Deep Modules vs Shallow Modules).
+2. Anatomía de la Complejidad (Deep Modules vs. Shallow Modules).
 3. El Veredicto Retrospectivo de los Sub-Agentes.
 
-Cada sección analiza el desarrollo del sistema utilizando conceptos de ingeniería de software moderna basados en la obra "A Philosophy of Software Design" de John Ousterhout.
+Cada sección analiza el desarrollo del sistema utilizando conceptos de ingeniería de software moderna basados en la obra *A Philosophy of Software Design* de John Ousterhout.
+
+## Propósito del documento
+
+El objetivo de este Software Journey es presentar de forma estructurada las decisiones técnicas, revisiones arquitectónicas y estrategias de mitigación de riesgos aplicadas durante el desarrollo del proyecto, evidenciando el proceso de evolución del sistema y la colaboración entre el desarrollador y las herramientas de inteligencia artificial utilizadas durante el ciclo de construcción.
