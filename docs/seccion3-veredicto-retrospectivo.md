@@ -8,9 +8,11 @@ El análisis permitió identificar oportunidades de mejora relacionadas con la o
 
 Como resultado de esta revisión se generaron tres propuestas arquitectónicas principales:
 
-1. Centralización de servicios backend.
-2. Separación entre lógica y presentación.
-3. Modularización de funcionalidades CRUD.
+| Propuesta | Descripción |
+|------------|------------|
+| Propuesta 1 | Centralización de servicios backend |
+| Propuesta 2 | Separación entre lógica y presentación |
+| Propuesta 3 | Modularización de funcionalidades CRUD |
 
 Cada propuesta abordó el problema desde una perspectiva diferente, permitiendo evaluar múltiples alternativas antes de tomar una decisión definitiva.
 
