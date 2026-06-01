@@ -35,3 +35,7 @@ No se identificaron casos significativos de Change Amplification durante las eta
 ## Conclusión
 
 El proceso de revisión arquitectónica permitió fortalecer la calidad estructural del proyecto Smart Task Assistant. La combinación de análisis humano y asistencia mediante inteligencia artificial facilitó la identificación temprana de riesgos, mejoró la organización modular del sistema y proporcionó una base sólida para futuras ampliaciones del software.
+## Reflexión Final
+
+El desarrollo de Smart Task Assistant permitió aplicar principios de ingeniería de software moderna en un entorno de co-creación entre desarrollador e inteligencia artificial. Las revisiones arquitectónicas, la estrategia de transferencia de contexto y el análisis continuo de la estructura del sistema contribuyeron a mantener una arquitectura organizada y preparada para futuras extensiones.
+La experiencia demostró la importancia de combinar herramientas de automatización con supervisión humana para garantizar la calidad y mantenibilidad del software.
