@@ -1,34 +1,48 @@
 # Smart Task Assistant con Priorización Inteligente
 
 ## Descripción
-Aplicación web para la gestión de tareas diarias que integra inteligencia artificial para sugerir prioridades y optimizar la productividad del usuario.
 
----
+Aplicación web para la gestión de tareas diarias desarrollada mediante una arquitectura frontend y backend. El proyecto fue construido utilizando Claude Code como herramienta de apoyo al desarrollo, siguiendo un flujo iterativo basado en planificación, implementación y revisión arquitectónica.
 
 ## Objetivo
-Desarrollar una solución que permita organizar tareas y asistir al usuario en la toma de decisiones sobre qué actividades realizar primero.
 
----
+Desarrollar una solución que permita organizar tareas y servir como base para futuras funcionalidades de priorización inteligente mediante inteligencia artificial.
 
 ## Tecnologías
-- Frontend: React / JavaScript
-- Backend: Python con FastAPI
-- Base de datos: SQLite
-- IA: API de modelo de lenguaje
 
----
+* Frontend: React / JavaScript
+* Backend: Python con FastAPI
+* Base de datos: SQLite (planeada para futuras iteraciones)
+* Herramientas de desarrollo: Claude Code, GitHub Issues y Git
 
-## Flujo de trabajo con Claude Code
-El proyecto se desarrolla utilizando Claude Code siguiendo un flujo iterativo:
+## Estructura del Proyecto
 
-1. Definición de requerimientos mediante prompts
-2. Generación de estructura inicial
-3. Desarrollo del backend
-4. Desarrollo del frontend
-5. Integración de inteligencia artificial
-6. Refinamiento progresivo del sistema
+```text
+backend/
+frontend/
+docs/
+README.md
+handoffs.md
+architecture-checkpoint.md
+requirements.txt
+```
 
----
+## Flujo de Trabajo con Claude Code
 
-## Estado del proyecto
-🚧 En desarrollo inicial
+El proyecto se desarrolló siguiendo un flujo iterativo:
+
+1. Definición de requerimientos mediante prompts.
+2. Creación de la estructura inicial del proyecto.
+3. Desarrollo del backend.
+4. Desarrollo del frontend.
+5. Revisión arquitectónica intermedia.
+6. Documentación del Software Journey.
+
+## Documentación
+
+La documentación completa del proyecto se encuentra en la carpeta `/docs`, donde se describe el recorrido de desarrollo, las decisiones arquitectónicas y el análisis basado en los conceptos de *A Philosophy of Software Design* de John Ousterhout.
+
+## Estado del Proyecto
+
+🚧 Prototipo funcional en etapa académica de desarrollo.
+
